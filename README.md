@@ -9,13 +9,13 @@
 -  **Quick Access to Key Features** – Navigate seamlessly.  
 -  **Dark/Light Mode Toggle** – Customize the UI experience.  
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 - **Next.js** – Optimized framework for React.  
 - **Tailwind CSS** – Modern styling and responsiveness.  
 - **Recharts/Chart.js** – Data visualization for AI usage statistics.  
 
 ##  Live Demo  
-👉 [Dashboard Live Link](https://devr-ai-dashboard.vercel.app/) 
+ [Dashboard Live Link](https://devr-ai-dashboard.vercel.app/) 
 
 ##  Installation & Setup  
 Clone the repository and install dependencies:  
